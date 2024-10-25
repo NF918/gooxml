@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_CustomWorkbookView struct {

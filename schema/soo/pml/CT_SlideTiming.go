@@ -12,7 +12,7 @@ package pml
 import (
 	"encoding/xml"
 
-	"github.com/carmel/gooxml"
+	"github.com/NF918/gooxml"
 )
 
 type CT_SlideTiming struct {

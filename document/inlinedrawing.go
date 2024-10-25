@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/carmel/gooxml/common"
-	"github.com/carmel/gooxml/measurement"
-	pic "github.com/carmel/gooxml/schema/soo/dml/picture"
-	"github.com/carmel/gooxml/schema/soo/wml"
+	"github.com/NF918/gooxml/common"
+	"github.com/NF918/gooxml/measurement"
+	pic "github.com/NF918/gooxml/schema/soo/dml/picture"
+	"github.com/NF918/gooxml/schema/soo/wml"
 )
 
 // InlineDrawing is an inlined image within a run.

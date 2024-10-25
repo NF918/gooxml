@@ -14,9 +14,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/carmel/gooxml/spreadsheet"
-	"github.com/carmel/gooxml/testhelper"
-	"github.com/carmel/gooxml/zippkg"
+	"github.com/NF918/gooxml/spreadsheet"
+	"github.com/NF918/gooxml/testhelper"
+	"github.com/NF918/gooxml/zippkg"
 )
 
 func TestStyleSheetUnmarshal(t *testing.T) {

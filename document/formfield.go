@@ -8,7 +8,7 @@
 package document
 
 import (
-	"github.com/carmel/gooxml/schema/soo/wml"
+	"github.com/NF918/gooxml/schema/soo/wml"
 )
 
 // FormFieldType is the type of the form field.

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/carmel/gooxml/chart"
-	"github.com/carmel/gooxml/spreadsheet"
+	"github.com/NF918/gooxml/chart"
+	"github.com/NF918/gooxml/spreadsheet"
 )
 
 func main() {

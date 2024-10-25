@@ -8,9 +8,9 @@
 package chart
 
 import (
-	"github.com/carmel/gooxml/drawing"
-	"github.com/carmel/gooxml/schema/soo/dml"
-	crt "github.com/carmel/gooxml/schema/soo/dml/chart"
+	"github.com/NF918/gooxml/drawing"
+	"github.com/NF918/gooxml/schema/soo/dml"
+	crt "github.com/NF918/gooxml/schema/soo/dml/chart"
 )
 
 type GridLines struct {

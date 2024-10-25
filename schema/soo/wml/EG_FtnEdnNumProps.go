@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"github.com/carmel/gooxml"
+	"github.com/NF918/gooxml"
 )
 
 type EG_FtnEdnNumProps struct {

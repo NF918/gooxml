@@ -8,10 +8,10 @@
 package document
 
 import (
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/color"
-	"github.com/carmel/gooxml/measurement"
-	"github.com/carmel/gooxml/schema/soo/wml"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/color"
+	"github.com/NF918/gooxml/measurement"
+	"github.com/NF918/gooxml/schema/soo/wml"
 )
 
 // CellProperties are a table cells properties within a document.

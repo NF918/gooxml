@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/schema/soo/dml"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/schema/soo/dml"
 )
 
 type CT_Shape struct {

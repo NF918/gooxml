@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/carmel/gooxml/schema/soo/dml/chart"
+	"github.com/NF918/gooxml/schema/soo/dml/chart"
 )
 
 func TestCT_Bar3DChartConstructor(t *testing.T) {

@@ -12,8 +12,8 @@ package vml
 import (
 	"encoding/xml"
 
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/schema/soo/ofc/sharedTypes"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type OfcOLEObject struct {

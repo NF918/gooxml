@@ -12,8 +12,8 @@ package diagram
 import (
 	"encoding/xml"
 
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/schema/soo/dml"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/schema/soo/dml"
 )
 
 type DataModel struct {

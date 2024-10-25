@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/color"
-	"github.com/carmel/gooxml/schema/soo/sml"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/color"
+	"github.com/NF918/gooxml/schema/soo/sml"
 )
 
 // DataBarScale is a colored scale that fills the cell with a background

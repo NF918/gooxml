@@ -13,7 +13,7 @@ import (
 	"image"
 	"os"
 
-	"github.com/carmel/gooxml/measurement"
+	"github.com/NF918/gooxml/measurement"
 	// Add image format support
 	_ "image/gif"
 	_ "image/jpeg"
@@ -46,7 +46,7 @@ func MakeImageRef(img Image, d *DocBase, rels Relationships) ImageRef {
 }
 
 func (i *ImageRef) GetRels() Relationships {
-        return i.rels
+	return i.rels
 }
 
 func (i *ImageRef) SetRelID(id string) {

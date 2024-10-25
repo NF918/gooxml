@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/carmel/gooxml/schema/soo/dml/diagram"
+	"github.com/NF918/gooxml/schema/soo/dml/diagram"
 )
 
 func TestCT_StyleDefinitionConstructor(t *testing.T) {

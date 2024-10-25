@@ -12,8 +12,8 @@ package extended_properties
 import (
 	"encoding/xml"
 
-	"github.com/carmel/gooxml"
-	"github.com/carmel/gooxml/schema/soo/ofc/docPropsVTypes"
+	"github.com/NF918/gooxml"
+	"github.com/NF918/gooxml/schema/soo/ofc/docPropsVTypes"
 )
 
 type CT_VectorLpstr struct {
