@@ -45,6 +45,10 @@ func MakeImageRef(img Image, d *DocBase, rels Relationships) ImageRef {
 	return ImageRef{img: img, d: d, rels: rels}
 }
 
+func (i *ImageRef) GetRels() Relationships {
+        return i.rels
+}
+
 func (i *ImageRef) SetRelID(id string) {
 	i.relID = id
 }
